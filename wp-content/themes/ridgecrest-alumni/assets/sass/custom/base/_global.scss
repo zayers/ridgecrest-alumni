@@ -1,0 +1,24 @@
+// Typography
+
+	h1,
+	h2,
+	h3 {
+		font-family: $font-display;
+		text-transform: uppercase;
+	}
+	
+	h4,
+	h5,
+	h6 {
+		font-family: $font-serif;
+	}
+	
+	p {
+		font-family: $font-serif;
+		line-height: 1.5em;
+	}
+	
+// Body
+	body {
+		padding-top: 50px;
+	}
